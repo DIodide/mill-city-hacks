@@ -3,6 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Mill City Hacks 2026 🚀
 Welcome to the Mill City Hacks hackathon project! This application is built to showcase innovative solutions and creative development.
 
+## Test Change 🧪
+This is a test change made to demonstrate the git workflow - branch creation, modification, commit, and push functionality.
+
 ## Getting Started
 
 First, run the development server:
