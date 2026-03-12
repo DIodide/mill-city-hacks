@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Mill City Hacks 2026 🚀
+Welcome to the Mill City Hacks hackathon project! This application is built to showcase innovative solutions and creative development.
+
 ## Getting Started
 
 First, run the development server:
